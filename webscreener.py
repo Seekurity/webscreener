@@ -8,7 +8,7 @@ __author__='Seif Elsallamy'
 
 __version__='1.0 alpha'
 
-__url__='https://github.com/seifelsallamy/webscreener'
+__url__='https://github.com/Seekurity/webscreener'
 
 
 __description__='''\
