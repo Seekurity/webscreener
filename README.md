@@ -21,4 +21,4 @@ sub.domain2.com
 ...
 ```
 ## Tutorial Video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/skcaczH6j5I/0.jpg)](https://www.youtube.com/watch?v=skcaczH6j5I)
+[![Link To Youtube Video](https://img.youtube.com/vi/skcaczH6j5I/0.jpg)](https://www.youtube.com/watch?v=skcaczH6j5I)
