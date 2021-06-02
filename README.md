@@ -13,8 +13,10 @@ It cuts out most of the pentesting time by screenshooting many domains and prese
 ```
 
 ### TargetList content format example
+```
 domain.com
 sub.domain.com
 sub2.domain.com
 sub.domain2.com
 ...
+```
