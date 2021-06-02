@@ -7,12 +7,12 @@ It cuts out most of the pentesting time by screenshooting many domains and prese
 - [Python 2](https://www.python.org/downloads/)
 - Tested on windows 10 
 
-#Usage 
+### Usage
 ```
 >python webscreener.py <targetlist> 
 ```
 
-#TargetList content format example
+### TargetList content format example
 domain.com
 sub.domain.com
 sub2.domain.com
